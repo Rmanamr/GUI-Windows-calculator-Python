@@ -1,6 +1,6 @@
 # GUI-Windows-calculator-Python V 1.0 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 Python GUI simple calculator.  
-using Python version 3.12.0.  
+using Python version 3.12.0 and tkinter library.  
   
 Run the program using :  
 GUI_Windows_calculator.exe  
